@@ -1,0 +1,9 @@
+Country,Sales
+UAE,200
+UK,202
+Germany,302
+Romania,405
+Russia,505
+US,300
+Turkey,400
+Spain,500

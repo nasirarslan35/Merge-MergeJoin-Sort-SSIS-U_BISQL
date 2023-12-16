@@ -1,0 +1,7 @@
+States,Sales,CountryName,CountryName (1)
+Dubai,200,UAE,UAE
+NewYork,300,US,US
+Anatalya,400,Turkey,Turkey
+Barcelona,500,Spain,Spain
+,700,India,
+Moscow,,,Russia
